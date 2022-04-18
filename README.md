@@ -1,16 +1,17 @@
-# cinema
 
-A new Flutter project.
+# Cinema Homescreen UI
 
-## Getting Started
+## 🔗 Links
 
-This project is a starting point for a Flutter application.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ashraf-24a673107/)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://i.ibb.co/s2k82Cj/Screenshot-from-2022-04-18-13-20-35.png)
+
+
+
+
+
+![App Screenshot](https://i.ibb.co/NZcykQF/Screenshot-from-2022-04-18-13-02-58.png)
